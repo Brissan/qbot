@@ -1,0 +1,2 @@
+# qbot
+Traider Bot
